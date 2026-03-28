@@ -34,12 +34,4 @@ To build an interactive Power BI dashboard that helps understand:
 - 📈 Analyzed monthly trends to understand sales fluctuations over time
 - 🎯 Used interactive filters to improve category-level business analysis
 
-## 📂 Files Included
-- `dashboard-screenshot.png` – Snapshot of the Power BI dashboard
-- `Category_Performance_Dashboard.pbix` – Power BI project file (if included)
 
-## 🔗 Project Link for Resume
-This project demonstrates dashboard creation, data transformation, KPI analysis, and category-level business reporting using Power BI.
-
-- `dashboard-screenshot.png` – Snapshot of the Power BI dashboard
-- `Category_Performance_Dashboard.pbix` – Power BI project file (if included)
